@@ -1311,9 +1311,9 @@ $lang['stop_timer_logout']                       = 'Stop timer logout';
 $lang['unbill_invoiced_time']                    = 'Unbill Invoiced Time';
 $lang['notify_ticket_reopened']                  = 'Notify Ticket Re-opened';
 $lang['ticket_reopened_email']                   = 'Ticket Reopened';
-$lang['earned']                                  = 'Earned';
-$lang['worked']                                  = 'Worked';
-$lang['receipt'] 								 = 'Receipt';
+$lang['earned']                                  = 'Заработал';
+$lang['worked']                                  = 'Работал';
+$lang['receipt']                                 = 'Квитанция';
 
 if (file_exists(APPPATH . '/language/russian/custom_language.php')) {
 	include APPPATH . '/language/russian/custom_language.php';
